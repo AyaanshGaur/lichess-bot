@@ -65,13 +65,13 @@ challenge:                   # Incoming challenges
     - standard
     - fromPosition
 #   - antichess
-#   - atomic
+    - atomic
     - chess960
-#   - crazyhouse
-#   - horde
-#   - kingOfTheHill
-#   - racingKings
-#   - threeCheck
+    - crazyhouse
+    - horde
+    - kingOfTheHill
+    - racingKings
+    - threeCheck
   time_controls:             # Time controls to accept
     - bullet
     - blitz
